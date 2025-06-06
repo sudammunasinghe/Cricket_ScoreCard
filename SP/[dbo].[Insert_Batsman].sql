@@ -12,7 +12,7 @@ Example:
 		@PlayerId = @PlayerId,
 		@NoOfBallsFaced = @NoOfBallsFaced,
 		@Id = @Id OUTPUT
-		/////
+		
 **************************************************************/
 
 CREATE PROCEDURE [dbo].[Insert_Batsman](
